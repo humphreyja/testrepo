@@ -16,6 +16,4 @@ _text_
 
 **test**
 
-(test)[http://blah]
-
 [test](http://blah)
