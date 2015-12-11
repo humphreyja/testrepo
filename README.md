@@ -15,3 +15,7 @@ __text__
 _text_
 
 **test**
+
+(test)[http://blah]
+
+[test](http://blah)
