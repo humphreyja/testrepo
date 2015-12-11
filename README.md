@@ -17,6 +17,9 @@ __text__
 _text_
 
 **test**
+*test*
+
+
 
 [test](http://blah)
 
